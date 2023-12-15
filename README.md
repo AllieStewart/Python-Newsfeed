@@ -19,11 +19,33 @@
 
 ## Description
 Optional lesson for UT bootcamp. Uses Python, Flask, Gunicorn, MySQL, and deploys to Heroku. </br>
-A simple newsfeed website that takes data from MySQL and outputs it </br>
+A simple newsfeed website that adds data into MySQL and outputs it </br>
 as posts and comments; includes login and signup for old/new users. </br>
 
 ## Screenshots
----Insert stuff here--- </br>
+---Home page--- </br>
+![Alt text](<z_screens/1 - Home.png>)
+</br>
+
+---Clicking on 'Comment' of a post--- </br>
+![Alt text](<z_screens/2 - Clicking on 'Comment' of post.png>)
+</br>
+
+---Login page--- </br>
+![Alt text](<z_screens/3 - Login.png>)
+</br>
+
+---Dashboard page--- </br>
+![Alt text](<z_screens/4 - Dashboard.png>)
+</br>
+
+---Adding a comment--- </br>
+![Alt text](<z_screens/5 - Adding comment.png>)
+</br>
+
+---Comment and upvote--- </br>
+![Alt text](<z_screens/6 - Comment and upvote.png>)
+</br>
 
 ## Usage
 Simply click on the link and watch the magic happen. </br>  
