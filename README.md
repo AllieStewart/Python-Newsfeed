@@ -49,7 +49,7 @@ as posts and comments; includes login and signup for old/new users. </br>
 
 ## Usage
 Simply click on the link and watch the magic happen. </br>  
-Link to the website: https://python-newsfeed-ajs-bd93e5e96b8a.herokuapp.com </br>
+Link to the website: OFFLINE </br>
 
 ## What I Have Learned
 I learned that although Python functions more strangely versus JavaScript, </br>
